@@ -18,7 +18,7 @@ a{color:var(--cyan)}a:hover{color:var(--lime)}:focus-visible{outline:2px solid v
 .link{background:none;border:0;color:var(--cyan);text-decoration:underline;cursor:pointer;min-height:44px}
 .nav{position:sticky;top:0;z-index:5;background:rgba(6,8,13,.78);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
 .navin{display:flex;align-items:center;justify-content:space-between;min-height:64px;gap:16px}.nav nav{display:flex;align-items:center;gap:22px}.nav nav a:not(.btn){color:var(--muted);text-decoration:none}.nav nav a:not(.btn):hover{color:var(--text)}
-.brand{display:inline-flex;align-items:center;gap:10px;color:var(--text);text-decoration:none;font-weight:900;letter-spacing:.14em}.logo{width:30px;height:30px;filter:drop-shadow(0 0 8px rgba(198,255,61,.45))}
+.brand{display:inline-flex;align-items:center;gap:10px;color:var(--text);text-decoration:none;font-weight:900;letter-spacing:.14em}
 .hero{padding:64px 0 88px}.heroin{display:grid;grid-template-columns:1.1fr .9fr;gap:56px;align-items:center}.copy>*+*{margin-top:22px}
 .badge{display:inline-flex;align-items:center;gap:10px;border:1px solid var(--line);border-radius:999px;padding:6px 14px;color:var(--muted);background:var(--bg2)}
 .dot{width:8px;height:8px;border-radius:50%;background:var(--lime);box-shadow:0 0 12px var(--lime);animation:pulse 2s infinite}@keyframes pulse{50%{opacity:.35}}
@@ -66,5 +66,12 @@ input[type=radio],input[type=checkbox]{accent-color:var(--lime);width:18px;heigh
 .pstep{display:grid;gap:10px}.big-ic{display:inline-grid;place-items:center;width:88px;height:88px;border-radius:50%;background:var(--grad);color:var(--on);box-shadow:0 0 50px rgba(198,255,61,.4);margin-bottom:12px}.big-ic .ic{width:44px;height:44px}
 .foot{border-top:1px solid var(--line);padding:40px 0 56px}.footin{display:flex;flex-wrap:wrap;gap:20px;align-items:center;justify-content:space-between}.foot nav{display:flex;gap:18px;flex-wrap:wrap}.foot nav a{color:var(--muted);text-decoration:none;min-height:44px;display:inline-flex;align-items:center}.foot p{width:100%}
 @media (max-width:900px){.heroin,.two{grid-template-columns:1fr;gap:40px}.steps,.tiles{grid-template-columns:1fr}.tiles{grid-template-columns:1fr 1fr}.hero{padding:32px 0 64px}.sec{padding:64px 0}}
-@media (max-width:640px){.nav nav a:not(.btn){display:none}.wrap{padding:0 18px}.tiles{grid-template-columns:1fr}.screen{min-height:0}.form{padding:18px}.form .btn{width:100%}.ctas{flex-direction:column}.ctas .btn{width:100%}}
+@media (max-width:640px){.nav nav a:not(.btn):not(.langsw){display:none}.wrap{padding:0 18px}.tiles{grid-template-columns:1fr}.screen{min-height:0}.form{padding:18px}.form .btn{width:100%}.ctas{flex-direction:column}.ctas .btn{width:100%}}
 .big-ic .ic{color:#06120a}
+/* Brand lockup, as on the app splash: icon tile with lime→cyan glow, angular lime wordmark. */
+.logo{width:32px;height:32px;filter:drop-shadow(0 0 10px rgba(0,209,255,.35)) drop-shadow(0 0 4px rgba(198,255,61,.35))}.wm{height:20px;width:auto}
+.splash{display:flex;align-items:center;gap:16px}.splash .t{width:72px;height:72px;filter:drop-shadow(0 0 22px rgba(0,209,255,.45)) drop-shadow(0 0 8px rgba(198,255,61,.4))}.splash .w{height:34px;width:auto}
+.store .t{width:28px;height:28px;border-radius:7px}
+.big-ic img{width:88px;height:88px}
+.splash.mid{justify-content:center;margin-bottom:12px}.doc,.tile,.feats,.steps{overflow-wrap:break-word;hyphens:auto}
+.langsw{display:inline-flex;align-items:center;gap:6px;min-height:44px;padding:0 12px;border:1px solid var(--line);border-radius:999px;color:var(--text)!important;font-weight:700}.langsw:hover{border-color:var(--cyan)}
