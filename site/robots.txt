@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /pro/success/
+Sitemap: https://citilink.app/sitemap.xml
