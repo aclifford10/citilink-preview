@@ -1,0 +1,5 @@
+Built from /workspace/wt-proto @ 836ee60dc6b50d19559b183a35b5d785488ade96 (parent f4d45b4637223adcf968f0c49695fe87fb2f2040, branch proto/all-updates-2026-10-24), local only, not pushed.
+Command: cd apps/mobile && DEMO_LANG=en node scripts/build-demo.mjs <this>/index.html   (2026-11-05 ~19:20 CET)
+Also: /workspace/deliverables/ux-loop/Zapzu-prototype-EN-2026-11-05-wf04.html
+Q1=★A "in" everywhere; Asked→Waiting; 5 walk majors (live zip count, linked word-safe, toast NBSP, slim 2-line, For-you in-flow).
+Backup: backup-pre-wf04-f4d45b46.bundle verified. tsc clean, jest 1883/1883, i18n OK. No push.
