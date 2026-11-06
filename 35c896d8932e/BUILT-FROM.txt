@@ -1,0 +1,10 @@
+SHA: 35c896d8932e830f2d84f1a415b251e603a8806e
+short: 35c896d8932e
+branch: pr250-onb02-wf06 → origin/cursor/onb02-wf06-8599
+PR: https://github.com/aclifford10/citilink/pull/250 OPEN, NOT merged
+BATCH-CHROME-ONB-VERIFY ★A/A (stack welcome CTAs + reclaim header title)
+commit: 35c896d8 BATCH-CHROME-ONB-VERIFY: stack welcome CTAs and reclaim the group title
+prior: 9640ee87 BATCH-PASS2-ONB
+command: DEMO_LANG=en node scripts/build-demo.mjs /workspace/demo-chrome-onb-v2-en/index.html
+cwd: /workspace/wt-proto/apps/mobile
+built: 2026-11-06 ~13:38 CET (Europe/Vienna)
