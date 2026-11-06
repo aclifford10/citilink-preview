@@ -1,0 +1,12 @@
+SHA: 5e2346069e4585d899f30d92261197cef2eaaeb7
+short: 5e2346069e45
+branch: pr250-onb02-wf06 → origin/cursor/onb02-wf06-8599
+PR: https://github.com/aclifford10/citilink/pull/250 OPEN, NOT merged
+BATCH-PASS3-SETTINGS ★Q1=A GWAVE-TITLE-195 full meet-up destination
+commit: 5e234606 GWAVE-TITLE-195: show the full meet-up destination
+prior: 9be97111 ACTIONS-OFFSCREEN-195L
+WALK-PASS3-SETTINGS-VERIFY: GWAVE-TITLE-195 FIXED · dest Sunday Crew/Mia Kai+1 full @195L · REPORT-DANGER/header holds · 0 new majors
+command: DEMO_LANG=en node scripts/build-demo.mjs /workspace/demo-gwave-title-verify-en/index.html
+cwd: /workspace/wt-proto/apps/mobile
+built: 2026-11-06 ~21:44 CET (Europe/Vienna)
+published: 2026-11-06 ~21:49 CET (Europe/Vienna)
