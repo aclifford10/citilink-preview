@@ -1,0 +1,9 @@
+SHA: c05a91d7ebd39db3f02d00fac94310428530054f
+short: c05a91d7ebd3
+branch: pr250-onb02-wf06 → origin/cursor/onb02-wf06-8599
+PR: https://github.com/aclifford10/citilink/pull/250 OPEN, NOT merged
+PASS2-SETTINGS tip (REPORT-DANGER-195 sticky Send + GWAVE-TITLE-390 wrap 2 lines)
+commits: 36803c2d REPORT-DANGER-195; c05a91d7 GWAVE-TITLE-390
+command: DEMO_LANG=en node scripts/build-demo.mjs /workspace/deliverables/ux-loop/demo-pass2-settings-en/index.html
+cwd: /workspace/wt-proto/apps/mobile
+built: 2026-11-06 ~06:00 CET (Europe/Vienna)
