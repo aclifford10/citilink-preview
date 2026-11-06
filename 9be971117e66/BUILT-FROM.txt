@@ -1,0 +1,12 @@
+SHA: 9be971117e6687432431479a62e76acb0032375b
+short: 9be971117e66
+branch: pr250-onb02-wf06 → origin/cursor/onb02-wf06-8599
+PR: https://github.com/aclifford10/citilink/pull/250 OPEN, NOT merged
+BATCH-PASS3-HEADER ★Q1=A′ ACTIONS-OFFSCREEN-195L two-row header
+commit: 9be97111 ACTIONS-OFFSCREEN-195L: stack the group header when text is large or the bar is under 280
+prior: 2473541f BATCH-PASS2-CITY-PROFILE
+WALK-PASS3-HEADER-VERIFY: ACTIONS-OFFSCREEN-195L FIXED · personal/public/linked plansInV+menuInV @195L · @390 one-row 56 · 0 new majors
+command: DEMO_LANG=en node scripts/build-demo.mjs /workspace/demo-pass3-header-verify-en/index.html
+cwd: /workspace/wt-proto/apps/mobile
+built: 2026-11-06 ~19:56 CET (Europe/Vienna)
+published: 2026-11-06 ~20:03 CET (Europe/Vienna)
