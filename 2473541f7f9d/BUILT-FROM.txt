@@ -1,0 +1,12 @@
+SHA: 2473541f7f9d7fb2fcfec632dc61faff35fd8dc7
+short: 2473541f7f9d
+branch: pr250-onb02-wf06 → origin/cursor/onb02-wf06-8599
+PR: https://github.com/aclifford10/citilink/pull/250 OPEN, NOT merged
+BATCH-PASS2-CITY-PROFILE ★Q1=A + ★Q2=A + Personal empty copy
+commit: 2473541f BATCH-PASS2-CITY-PROFILE: stack city rows and My groups, key empty copy
+prior: 35c896d8 BATCH-CHROME-ONB-VERIFY
+WALK-PASS2-CITY-PROFILE-VERIFY: CITY-SHEET-195 FIXED · PROFILE-MYGROUPS-195 FIXED · Personal empty FIXED · 0 new majors
+command: DEMO_LANG=en node scripts/build-demo.mjs /workspace/demo-city-profile-verify-en/index.html
+cwd: /workspace/wt-proto/apps/mobile
+built: 2026-11-06 ~19:11 CET (Europe/Vienna)
+published: 2026-11-06 ~19:16 CET (Europe/Vienna)
