@@ -1,0 +1,9 @@
+SHA: 64830b8a71a68b508f4bb2903ef9383ec7dbd4ab
+short: 64830b8a71a6
+branch: pr250-onb02-wf06 → origin/cursor/onb02-wf06-8599
+PR: https://github.com/aclifford10/citilink/pull/250 OPEN, NOT merged
+MSG-ACTIONS-195 ★A tip (responsive picks + Icon plus + capped menu)
+commit: 64830b8a MSG-ACTIONS-195: fit reactions and the action menu at 195
+command: DEMO_LANG=en node scripts/build-demo.mjs /workspace/deliverables/ux-loop/demo-msg-actions-en/index.html
+cwd: /workspace/wt-proto/apps/mobile
+built: 2026-11-06 ~06:50 CET (Europe/Vienna)
