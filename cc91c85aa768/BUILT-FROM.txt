@@ -1,0 +1,12 @@
+SHA: cc91c85aa7689871935cd909f35ecdab5deb2f32
+short: cc91c85aa768
+branch: pr251-rail-left-only → origin/cursor/rail-left-only-3abb
+PR: https://github.com/aclifford10/citilink/pull/251 OPEN, NOT merged
+commits: a86b663d Pin the group photo rail to the left and remove the side setting.
+         cc91c85a Add iOS-style switches to the chat menu notification and translate rows.
+base: 5e2346069e4585d899f30d92261197cef2eaaeb7 (PR #250 tip)
+WALK-PASS4-RAIL-SWITCHES: left-only rail + Notifications/Translate iOS switches
+command: DEMO_LANG=en node scripts/build-demo.mjs /workspace/deliverables/ux-loop/demo-rail-switches-en/index.html
+cwd: /workspace/wt-proto/apps/mobile
+built: 2026-11-07 19:26 CET (Europe/Vienna)
+published: 2026-11-07 19:26 CET (Europe/Vienna)
