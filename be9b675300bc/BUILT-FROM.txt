@@ -1,0 +1,14 @@
+SHA: be9b675300bca22352fc20396eec69096ef69260
+short: be9b675300bc
+branch: pr251-rail-left-only → origin/cursor/rail-left-only-3abb
+PR: https://github.com/aclifford10/citilink/pull/251 OPEN, NOT merged
+commits (Nov9 batch tip):
+  24df4f15 Allow PATCH on existing origins, hide pre-join inviter names, and list personal groups as City linking cards.
+  f7c16f70 Keep the public City feed public-only and add a separate Link scope.
+  … create-group purpose / GROUP_TYPE_COPY / Link pill …
+  be9b6753 Ask which personal group to link when there is more than one.
+base: 5e2346069e4585d899f30d92261197cef2eaaeb7 (PR #250 tip)
+command: DEMO_LANG=en node scripts/build-demo.mjs /workspace/deliverables/ux-loop/demo-be9b675-en/index.html
+cwd: /workspace/wt-proto/apps/mobile
+built: 2026-11-09 11:11 CET (Europe/Vienna)
+published: 2026-11-09 11:11 CET (Europe/Vienna) → citilink-preview/be9b675300bc/
