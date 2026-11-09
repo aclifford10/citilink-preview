@@ -1,0 +1,14 @@
+SHA: 9f660151e3e047688d3135f941bdb07f8de0bad3
+short: 9f660151e3e0
+branch: verify/9f660151 → origin/cursor/rail-left-only-3abb (PR #251 tip)
+PR: https://github.com/aclifford10/citilink/pull/251 OPEN, NOT merged
+commits since be9b6753:
+  1879e6a9 Hide recently contacted groups and lock a new group's home city.
+  47c77c2d Fill the create-group city line and keep personal groups on Link.
+  8aa8e4cd Open invites from the new-group success screen.
+  9f660151 Match the new-group success screen to the approved soft nudge.
+base prior tip: be9b675300bca22352fc20396eec69096ef69260
+command: DEMO_LANG=en node scripts/build-demo.mjs /workspace/deliverables/ux-loop/proto-verify-9f660151/demo/index.html
+cwd: /workspace/wt-proto/apps/mobile
+built: 2026-11-09 12:24 CET (Europe/Vienna)
+published: 2026-11-09 12:24 CET (Europe/Vienna) → citilink-preview/9f660151e3e0/
