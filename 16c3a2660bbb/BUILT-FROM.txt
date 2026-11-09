@@ -1,0 +1,9 @@
+SHA: 16c3a2660bbbf5808b5db52f8de30a1fedc5dabc
+short: 16c3a2660bbb
+branch: verify/16c3a266 → origin/cursor/rail-left-only-3abb (PR #251 tip)
+PR: https://github.com/aclifford10/citilink/pull/251 OPEN, NOT merged
+commit: 16c3a266 Fit the success seats and surface the Link limit states in the demo.
+prior: 9f660151e3e047688d3135f941bdb07f8de0bad3
+command: DEMO_LANG=en node scripts/build-demo.mjs .../proto-verify-16c3a266/demo/index.html
+built: 2026-11-09 13:49 CET (Europe/Vienna)
+published: 2026-11-09 13:49 CET (Europe/Vienna) → citilink-preview/16c3a2660bbb/
