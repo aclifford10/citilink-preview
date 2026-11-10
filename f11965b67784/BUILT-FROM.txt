@@ -1,0 +1,15 @@
+commit f11965b677846e99b644951905b03700399d5126
+branch cursor/rail-left-only-3abb
+base cursor/onb02-wf06-8599
+
+Round 04 preview. Demo only. Do not publish.
+
+Review situations (demo only, synthetic). Profile → Demo → Review situations.
+
+- Full personal group (8 of 8): opens “Full table” (you + 7). The header count is 8.
+- Two linked groups, both full: opens the linked chat “Full east + Full west”. Each side is its own group at 8 of 8 (Full east, Full west) on Chats.
+- Past plan, and someone left mid-plan: opens “Plan lab”. The MuseumsQuartier plan is past (“done”) and cannot be RSVP’d. Kai voted in on the Naschmarkt plan, then left; his name reads “(left group)”.
+- Traveler in another timezone: opens “Tokyo week”. Hana’s line says she is in Tokyo. Her row in the member list shows Tokyo.
+- Muted chat: opens “Quiet room”. The Chats row shows the mute icon.
+- Removed while viewing: opens “See you”. After a short moment the chat says you are no longer in the group and returns to Chats.
+- About 30 groups: returns to Chats with Circle 01 … Circle 30 added. Reset demo to clear them.
