@@ -1,0 +1,17 @@
+commit 6dd603dbecbec7dda2e99156187048510ada342d
+branch cursor/rail-left-only-3abb
+base cursor/onb02-wf06-8599
+
+Round 07 preview. Not published.
+
+Offline: turn the browser network off, type in a chat, and send. The line leaves the composer and waits as a bubble, “Sending when you're back online.” Turn the network back on and it sends by itself.
+
+Review situations (demo only, synthetic). Profile → Demo → Review situations.
+
+- Plan lab: a past plan (outline “Plan the next one”) and a live plan. I’m in and Undo share one count with the Plans tab.
+- Tokyo week, Full east + Full west, and the other review rows are unchanged from round 06.
+
+What’s next at 320 keeps Board game nights’ Ask to join above the outline Start a group.
+City list padding keeps Ask to join above the tab bar, so the photo gate can open.
+Profile’s Start a group is an outline and sits below My profile.
+Start a group opens with an empty name. The button stays disabled until one real character.
