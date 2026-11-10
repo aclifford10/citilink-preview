@@ -1,0 +1,11 @@
+Built from f9578b2fa46b (cursor/rail-left-only-3abb).
+Client demo only. Not published.
+
+Round 09
+- VR-01: Vote to remove asks first. Cancel starts nothing. Start vote plays the sheet exit, then the existing toast, then the report sheet. Not now on that sheet is ink.
+- AN-3: the confirm slides down and fades over 200 ms. The toast rises 8 px and fades in over 160 ms, starting 120 ms in. Reduced motion skips the slide; the toast fades in 100 ms.
+- W-02r: Profile's outline Start a group sits under the list, so My profile and Nationality clear it at 390, and My groups clear it at 320.
+- PL-01: The Plans list ends above the tab bar, so the last card, its I'm in control, and its count stay fully visible.
+- PRO-01: The Pro scroll clears the sticky Get Zapzu Pro bar. World still says the existing price placeholder. No price was added.
+- LT-01: At zoom 1.5 the composer is one row (field, plan, Send), the Drinks I'm in chip stays on screen, and a tight title wraps on spaces.
+- KB-01: From the composer, Tab goes to the plan control, then Send.
