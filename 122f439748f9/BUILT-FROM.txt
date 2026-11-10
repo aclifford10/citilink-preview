@@ -1,0 +1,20 @@
+commit 122f439748f9
+branch cursor/rail-left-only-3abb
+base cursor/onb02-wf06-8599
+
+Round 06 preview. Not published.
+
+Review situations (demo only, synthetic). Profile → Demo → Review situations.
+
+- Full personal group (8 of 8): opens “Full table” (you + 7). The header count is 8.
+- Two linked groups, both full: opens the linked chat “Full east — Full west”. Both groups are already linked. A spare personal group stays free to link, so Link which group? lists Full east and Full west as already linked. The first open of that empty chat plays the “can chat now” line once.
+- Past plan, and someone left mid-plan: opens “Plan lab”. The MuseumsQuartier plan is past (“done”) and cannot be RSVP’d. Kai voted in on the Naschmarkt plan, then left; his name reads “(left group)”.
+- Traveler in another timezone: opens “Tokyo week”. Hana’s line says she is eight hours ahead of Vienna. Her profile has two lines under the name: Vienna · age, then In Tokyo now. Her message keeps the local time in the bubble and the Tokyo time under it.
+- Muted chat: opens “Quiet room”. The Chats row shows the mute icon.
+- Removed while viewing: opens “See you”. After a short moment the chat says you are no longer in the group and returns to Chats.
+- About 30 groups: returns to Chats with Circle 01 … Circle 30 added. Reset demo to clear them.
+
+What’s next keeps Ask to join as the lime button. Start a group in the footer is the outline button.
+Plan notifications: Profile → Plan notifications. The middle choice is “While a plan is active”.
+Arabic Profile: Profile → Language → العربية. The large title is الملف الشخصي, on two lines when it does not fit.
+Cloned public groups, including Donauinsel volley, each have their own one-line description. Board game nights still says “Learn a new strategy game every Thursday.”
