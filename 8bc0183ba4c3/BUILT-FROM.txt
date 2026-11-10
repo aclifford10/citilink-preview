@@ -1,0 +1,14 @@
+Built from 8bc0183ba4c3 (cursor/rail-left-only-3abb).
+Client demo only. Not published.
+
+Round 08
+- G-03: the city list ends above the tab bar, and short screens drop the lines under the members so Donauinsel volley's Ask to join sits fully above the bar and opens the existing photo gate.
+- W-01r: What's next tightens the two choices on a short screen so Board game nights' Ask to join sits above the outline Start a group.
+- W-02r: Profile's Start a group sits in the column above the tab bar, with the Icon plus, so My profile and Nationality stay clear.
+- R-02: undoing I'm in cancels Sam's delayed vote, so the chat card, header, and Plans stay at 1 in.
+- AN-1: only the count digit ticks (160 ms). Reduced motion swaps it.
+- LT-01: CSS zoom 1.5 uses the large-text chat layout, so the rail steps aside, the title stays on word boundaries, and the composer (44 px) stays on screen.
+- NAT-01: a Vienna home city lists Austria first. Save is muted at 0 and lime at 1–2. AN-2 ticks the ink check and the Save fill. Reduced motion is instant.
+- DO-01: Leave sheet Cancel is ink. Drop out stays red.
+- ES-02: empty Chats search says "Try another name or check the spelling."
+- MO-01: More options is ink. Start a group is the only lime, and only once a name is typed.
