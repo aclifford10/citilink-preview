@@ -1,0 +1,7 @@
+SHA: bece65ef15e2a4753c8feaa2220e3013f49562bd
+short: bece65ef15e2
+branch: cursor/rail-left-only-3abb (PR #251 tip)
+PR: https://github.com/aclifford10/citilink/pull/251 OPEN, NOT merged
+commit: bece65ef Keep the link Undo toast on the group chat that just linked.
+command: DEMO_LANG=en node scripts/build-demo.mjs .../preview-bece65ef15e2/index.html
+built: 2026-11-09 20:01 CET (Europe/Vienna)
