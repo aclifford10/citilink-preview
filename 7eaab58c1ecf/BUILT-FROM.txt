@@ -1,3 +1,0 @@
-Built from /workspace/wt-proto @ 7eaab58c1ecf5efef3d15f38a61e8531d07fda9d (local branch pr250-onb02-wf06 = origin/cursor/onb02-wf06-8599, PR #250 OPEN, NOT merged; parent 614d736c ONB-02, base 1884f8bb ONB-01).
-Command: cd apps/mobile && DEMO_LANG=en node scripts/build-demo.mjs <this>/index.html   (2026-11-06 ~02:04 CET)
-Also: /workspace/deliverables/ux-loop/Zapzu-prototype-EN-2026-11-06-onb02-wf06.html

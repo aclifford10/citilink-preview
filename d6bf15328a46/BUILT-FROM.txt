@@ -1,5 +1,0 @@
-Built from /workspace/wt-proto @ d6bf15328a460618abf8b3a5b5d95ae9c240d5f5 (parent 836ee60dc6b50d19559b183a35b5d785488ade96, branch proto/all-updates-2026-10-24), local only, not pushed.
-Command: cd apps/mobile && DEMO_LANG=en node scripts/build-demo.mjs <this>/index.html   (2026-11-05 ~19:51 CET)
-Also: /workspace/deliverables/ux-loop/Zapzu-prototype-EN-2026-11-05-wf05.html
-Q1=★A under-threshold "N in · Join the chat →"; For-you list footer; slim painted count; toast stack@195; header 2-line @195.
-Backup: backup-pre-wf05-836ee60d.bundle verified. tsc clean, jest 1886/1886, i18n OK. No push.
