@@ -1,0 +1,8 @@
+commit 6b39ed7a24e2572ae036daefff0326a402349db8
+branch cursor/rail-left-only-3abb
+built 2026-11-11T00:08:37Z
+Demo only. Not published.
+
+Review situations (Profile, Demo, Review situations):
+- New here: a brand-new user with no chats and no plans.
+- Muted chat: Quiet room, notifications off.
